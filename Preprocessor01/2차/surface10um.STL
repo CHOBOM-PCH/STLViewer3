@@ -1,0 +1,44 @@
+solid surface10um
+   facet normal 5.263857e-001 8.502459e-001 0.000000e+000
+      outer loop
+         vertex 3.986731e+002 0.000000e+000 0.000000e+000
+         vertex 2.384348e+002 9.920329e+001 0.000000e+000
+         vertex 3.986731e+002 0.000000e+000 1.000000e-002
+      endloop
+   endfacet
+   facet normal 5.263857e-001 8.502459e-001 0.000000e+000
+      outer loop
+         vertex 3.986731e+002 0.000000e+000 1.000000e-002
+         vertex 2.384348e+002 9.920329e+001 0.000000e+000
+         vertex 2.384348e+002 9.920329e+001 1.000000e-002
+      endloop
+   endfacet
+   facet normal 8.778174e-002 9.961398e-001 0.000000e+000
+      outer loop
+         vertex 2.384348e+002 9.920329e+001 0.000000e+000
+         vertex 1.016386e+002 1.112580e+002 0.000000e+000
+         vertex 2.384348e+002 9.920329e+001 1.000000e-002
+      endloop
+   endfacet
+   facet normal 8.778174e-002 9.961398e-001 0.000000e+000
+      outer loop
+         vertex 2.384348e+002 9.920329e+001 1.000000e-002
+         vertex 1.016386e+002 1.112580e+002 0.000000e+000
+         vertex 1.016386e+002 1.112580e+002 1.000000e-002
+      endloop
+   endfacet
+   facet normal 4.395069e-001 8.982393e-001 0.000000e+000
+      outer loop
+         vertex 1.016386e+002 1.112580e+002 0.000000e+000
+         vertex 0.000000e+000 1.609896e+002 0.000000e+000
+         vertex 1.016386e+002 1.112580e+002 1.000000e-002
+      endloop
+   endfacet
+   facet normal 4.395069e-001 8.982393e-001 0.000000e+000
+      outer loop
+         vertex 1.016386e+002 1.112580e+002 1.000000e-002
+         vertex 0.000000e+000 1.609896e+002 0.000000e+000
+         vertex 0.000000e+000 1.609896e+002 1.000000e-002
+      endloop
+   endfacet
+endsolid
